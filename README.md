@@ -68,7 +68,7 @@ Ranking: Orders by highest annual salary
 Result Limiting: Returns top 10 results for focused analysis
 
 📊 Visualization: Top 10 Highest-Paying NYC Roles
-![NYC Top Paying Jobs](Assets\nyc_top_paying_jobs_chart.png)
+![NYC Top Paying Jobs](Assets\top_paying_jobs_in_NYC.png)
 
 📈 What the Visualization Shows
 
@@ -150,7 +150,7 @@ It shows which skills consistently appear in the top salary bracket, helping you
 Basically, the skills that move your paycheck. 🤑
 
 ### Vizualize
-![Top-Paying Data Analyst Skills](Assets\nyc_data_analyst_skills_chart.png)
+![Top-Paying Data Analyst Skills](Assets\data_analyst_skills_chart.png)
 
 # The Analysis
 
