@@ -190,7 +190,7 @@ Power BI       | █████        | 35% of jobs
 ### Optimal skills
 
 
-![skills](Assets\optimal_skills.png)
+![skills](Assets\optimal__skills.png)
 
 ## What I Learned
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
