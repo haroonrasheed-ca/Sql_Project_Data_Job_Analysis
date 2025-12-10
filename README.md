@@ -68,7 +68,7 @@ Ranking: Orders by highest annual salary
 Result Limiting: Returns top 10 results for focused analysis
 
 📊 Visualization: Top 10 Highest-Paying NYC Roles
-![NYC Top Paying Jobs](Assets/top_paying_jobs_in_NYC.png)
+![SQL Data Job Analysis](Assets/top_paying_jobs_in_NYC.png)
 
 📈 What the Visualization Shows
 
